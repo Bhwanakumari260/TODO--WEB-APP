@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(147, 172, 235)
+}
+.box{
+    margin: auto;
+    width: 500px;
+    height: 500px;
+} 
+.heading{
+    text-align: center;
+    font-size: 3rem;
+    color:rgb(7, 7, 121);
+}
+.btn{
+    background-color: rgb(203, 24, 24);
+    border-radius: 0.5rem;
+    text-decoration: none;
+    font-size: 1rem;
+}
+input{
+    width: 300px;
+    height: 1.5rem;
+}
+.del{
+    background-color: rgb(203, 24, 24);
+    border-radius: 0.5rem;
+    text-decoration: none;
+    font-size: 1rem;
+    margin-left:10px;
+}
